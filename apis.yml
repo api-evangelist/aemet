@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://opendata.aemet.es/centrodedescargas/inicio
 common:
+  - type: DomainSecurity
+    url: security/aemet-domain-security.yml
   - type: Website
     url: https://opendata.aemet.es/centrodedescargas/inicio
   - type: PublicAPIsListing

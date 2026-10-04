@@ -39,7 +39,6 @@ apis:
   - name: Aemet
     description: "Weather and forecast data from Spain"
     humanURL: https://opendata.aemet.es/centrodedescargas/inicio
-    baseURL: https://opendata.aemet.es/centrodedescargas/inicio
     tags:
       - Weather
     properties:
